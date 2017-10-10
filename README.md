@@ -1,5 +1,5 @@
 # Angular2LifeCycles
-
+I learned angular life cycles in this project. you can see the console log to see which life cycle events called.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
 ## Development server
